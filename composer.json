@@ -3,7 +3,8 @@
     "description": "Projeto de ecomerce, desenvolvido em PHP 7",
     "autoload": {
         "psr-4": {
-            "GabrielDev\\ProjetoEcomerce\\": "src/"
+            "Hcode\\" : "vendor\\hcodebr\\php-classes\\src",
+            "resource\\" : "vendor\\php_class\\src"
         }
     },
     "authors": [
