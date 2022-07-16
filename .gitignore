@@ -1,0 +1,5 @@
+**/vendor/*
+*.zip
+*.rar
+*.pdf
+composer.lock
