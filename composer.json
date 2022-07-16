@@ -4,7 +4,7 @@
     "autoload": {
         "psr-4": {
             "Hcode\\" : "vendor\\hcodebr\\php-classes\\src",
-            "resource\\" : "vendor\\php_class\\src"
+            "resource\\" : "src\\php_class\\src"
         }
     },
     "authors": [
