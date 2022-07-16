@@ -1,0 +1,20 @@
+{
+    "name": "gchagas09/projeto_ecomerce",
+    "description": "Projeto de ecomerce, desenvolvido em PHP 7",
+    "autoload": {
+        "psr-4": {
+            "GabrielDev\\ProjetoEcomerce\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Chagas",
+            "email": "gchagas090299@outlook.com.br"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer":"5.2.22",
+        "slim/slim":"2.0",
+        "rain/raintpl":"3.0.0"
+    }
+}
