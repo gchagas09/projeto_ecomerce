@@ -2,5 +2,6 @@
 *.zip
 *.rar
 *.pdf
+garbage/
 composer.lock
 
